@@ -31,9 +31,9 @@ javascript:fetch("https://res.cloudinary.com/dglsgcrtk/raw/upload/v1745541475/of
 </div>
 
 <p align="center">
-    <a href="https://discord.gg/centralscripts"><img width="20%" alt="Discord (CS)" title="Discord (CS)" src="https://i.imgur.com/r0YUgMR.png"/></a>
+    <a href="https://discord.gg/centralscripts"><img width="12%" alt="Discord (CS)" title="Discord (CS)" src="https://i.imgur.com/r0YUgMR.png"/></a>
   &nbsp;
-    <a href="https://pixgg.com/im_snow"><img width="20%" alt="Doar" title="Doar" src="https://i.imgur.com/yLUUqaa.png"/></a>
+    <a href="https://pixgg.com/im_snow"><img width="12%" alt="Doar" title="Doar" src="https://i.imgur.com/yLUUqaa.png"/></a>
 </p>
 
 ---

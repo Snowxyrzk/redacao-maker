@@ -39,8 +39,8 @@ javascript:fetch("https://res.cloudinary.com/dglsgcrtk/raw/upload/v1747348028/sr
 ---
 
 <div align="center">
-  <img src="https://i.imgur.com/CAqIV2G.png" width="150px" alt="Snow Profile"/>
-  <h3 style="color: #e86a04; animation: pulse 2s infinite;">Criado por Snow!</h3>
+  <img src="https://i.imgur.com/CHUfGIq.png" width="150px" alt="Snow Profile"/>
+  <h3 style="color: #e86a04; animation: pulse 2s infinite;">Criado por Central Scripts!</h3>
 </div>
 
 

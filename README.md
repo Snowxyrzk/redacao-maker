@@ -36,16 +36,6 @@ javascript:fetch("https://res.cloudinary.com/dglsgcrtk/raw/upload/v1747348028/sr
     <a href="https://pixgg.com/im_snow"><img width="12%" alt="Doar" title="Doar" src="https://i.imgur.com/yLUUqaa.png"/></a>
 </p>
 
----
-
-<div align="center">
-  <img src="https://i.imgur.com/CHUfGIq.png" width="150px" alt="Snow Profile"/>
-  <h3 style="color: #e86a04; animation: pulse 2s infinite;">Criado por Central Scripts!</h3>
-</div>
-
-
----
-
 <p align="center">
   <a href="#"><img src="https://komarev.com/ghpvc/?username=MicrobitMakerUser&style=for-the-badge&label=Views:&color=gray"/></a>
 </p>
